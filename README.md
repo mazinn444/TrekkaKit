@@ -13,7 +13,7 @@ See [here](./guide.md) how to use this SDK kit.
 
 Install the setup install script:
 
-| Sistema       | Arquivo                              |
+| System       | File                              |
 |---------------|------------------------------------|
 | Windows 10/11 | [setup.bat](./setup/windows/setup.bat) |
 | Linux         | [setup.sh](./setup/linux/setup.sh)       |
