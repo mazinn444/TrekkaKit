@@ -10,13 +10,14 @@ A simple C++ game development kit for beginners. It’s based on [SFML](https://
 See [here](./guide.md) how to use this SDK kit.
 
 ## Installation
-To download and install, run:
 
-```bash 
-git clone https://github.com/mazinn444/TrekkaKit.git
-```
+Install the setup install script:
 
-and put the folder inside your project directory.
+| Sistema       | Arquivo                              |
+|---------------|------------------------------------|
+| Windows 10/11 | [setup.bat](./setup/windows/setup.bat) |
+| Linux         | [setup.sh](./setup/linux/setup.sh)       |
+
 
 ## License
 This SDK no uses license.
